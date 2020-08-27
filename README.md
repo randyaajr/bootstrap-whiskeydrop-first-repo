@@ -9,3 +9,4 @@
 
 **8/26/2020:** Site completed by Randy Arthur Anderson 
 
+![image](assets/img/whiskey-background.jpg)
