@@ -1,6 +1,6 @@
 # Welcome to my first Bootstrap repo
 
-#Whiskey Drop Site
+#Whiskey Drop Site from Code Institutes Bootstrap course
 
 ## *Initial Commit*
 
